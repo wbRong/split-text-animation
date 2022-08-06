@@ -1,0 +1,1 @@
+*{margin:0;padding:0;box-sizing:border-box}span{transition:all 0.5s ease;opacity:0;transform:translateY(50px);display:inline-block}span.current{color:#fff;opacity:1;transform:translateY(0)}

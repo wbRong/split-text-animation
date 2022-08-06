@@ -1,0 +1,22 @@
+{
+  "name": "split-text-animation",
+  "version": "0.0.5",
+  "description": "javascript , text capture animation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "web",
+    "split",
+    "split-text",
+    "splitText",
+    "animation"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wbRong/split-text-animation.git"
+  },
+  "author": "wbrong",
+  "license": "ISC"
+}
